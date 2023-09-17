@@ -4,3 +4,6 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 ScaffoldingReadMe.txt
+.idea/
+app.db-shm
+app.db-wal
